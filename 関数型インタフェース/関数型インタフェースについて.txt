@@ -1,0 +1,5 @@
+java.util.functionパッケージ→関数型インタフェースと呼ばれる
+https://docs.oracle.com/javase/jp/8/docs/api/java/util/function/package-summary.html
+関数型インタフェースは単一のメソッドを持つインタフェース群→ラムダ式で利用するために都合が良い
+
+この中から使用頻度の高いFunction、Consumer、Predicateをまとめる

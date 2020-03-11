@@ -1,0 +1,4 @@
+StreamAPI
+Collectionインタフェースのstreamというメソッドが追加
+streamメソッドは自分自身のstreamインスタンスを返す
+streamには関数型インタフェースを引数に取る便利なメソッドが多数存在
